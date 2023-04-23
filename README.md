@@ -1,2 +1,3 @@
-# Thesis
-github repository for my ATU Data Science thesis, including teh Programming for Big Data module.
+# Thesis-Big Data
+My ATU Data Science thesis, including Programming for Big Data module.
+
